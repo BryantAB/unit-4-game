@@ -1,0 +1,48 @@
+body {
+	background-color: darkgray
+}
+
+
+.jumbotron {
+	background-color: blue;
+}
+
+#gameSection, #scoreSection {
+	background-color: #ffffff;
+	align-items: left;
+}
+
+
+
+#buttonSection {
+
+	
+	padding: 10px;
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+
+
+.icons {
+	display: inline-block;
+  	max-width: 100px;
+  	max-height: 100px;
+  	width: 60px;
+  	height: 60px;
+	margin:10px;
+	text-align: left
+}
+
+h1, h2, h3 {
+	font-family: 'ariel';
+}
+
+p {
+	font-family: monospace;
+	color: #ffffff
+}
+
+.numberBox {
+	font-size: 100px;
+	margin: 0px;
+}
